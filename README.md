@@ -18,7 +18,6 @@ INSTALLATION AND RUN:
 ```bash
 git clone https://github.com/DemchenkoDev/sysinfo.git
 cd sysinfo
-npm install
 ```
 ##Run
 ```bash
