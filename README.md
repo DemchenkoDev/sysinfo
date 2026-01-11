@@ -32,3 +32,9 @@ or:
 ```bash
 systemctl start sysinfo.sh
 ```
+
+##Experience
+
+Learned the navigation, directory structure, how to work with files. More specifically: Create directory, create sh file, sudo -su mode, move the file from directory A to directory B, installation some programs in Ubuntu terminal, run the sh file.
+
+Used the bash commands: cd, mv, nano, hostname, free, lshw, uptime, date, cal, ncal, lscpu, mkdir, sudo -su, apt get update, apt get upgrade, apt install, inxi, chmod +x (add execute permissions for sysinfo.sh)
