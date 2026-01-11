@@ -1,5 +1,5 @@
 # sysinfo
-DESCRIPTION:
+#DESCRIPTION:
 
 System: Ubuntu 24.04
 
@@ -9,10 +9,10 @@ Technologies: Linux, Bash
 
 Short Description: This script created for view selected information about system in bash terminal. Used bash commands. Used echo in script for visually friendly display structure the information.
 
-SCREENSHOTS:
+#SCREENSHOTS:
 ![screenshot](images/sysinfo_screenshot.png)
 
-INSTALLATION AND RUN:
+#INSTALLATION AND RUN:
 
 ##Installation
 ```bash
